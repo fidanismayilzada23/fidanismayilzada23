@@ -1,4 +1,4 @@
-# fidanismayilzada23-# 💻 About Me
+# fidanismayilzada23 # 💻 About Me
 
 
 Hello! I'm **Fidan İsmayılzada** 🌞, a passionate researcher and digital solution creator focused on **data analysis** and **sustainable economy**. I completed my master's degree in **financing sustainable development**, with a particular focus on analyzing the **financial and environmental impacts of green bonds**.  
