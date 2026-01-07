@@ -31,6 +31,7 @@ My professional journey revolves around **data analysis, reporting, and building
 ---
 
 ## 🏆 GitHub Trophies
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fidanismayilzada23&theme=radical&row=2)
 
 ## 📊 LeetCode Stats
